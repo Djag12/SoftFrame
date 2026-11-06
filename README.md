@@ -11,3 +11,7 @@ Use Linux or Ubuntu in WSL on an x86 machine with Make and a C++17 compiler that
 In the saved run, nine threads traced 7.82 million coherent primary rays per second through 50,000 triangles. That timer measures intersection traversal. The separate image test compares finished renders against a reference at 1,024 samples per pixel. On this scene, adaptive allocation with Sobol sampling took 46.5% less time than fixed sampling at comparable image error. The measurements are in `results/softframe_current.json` and `results/softframe_quality.json`.
 
 Developed with AI assistance.
+
+## Project history
+
+Original project date (from memory): June 6, 2026. This repository was published on November 6, 2026.
