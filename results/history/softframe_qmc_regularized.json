@@ -1,0 +1,1 @@
+{"backend":"custom SIMD four-wide BVH","threads":9,"independent_reference_seed":true,"triangles":50000,"bvh_reference_checks":300,"intersection_rays":1000000,"rays_per_second":3.51154e+06,"hits":444325,"fixed_seconds":0.119059,"adaptive_seconds":0.144005,"fixed_rmse":0.0166449,"adaptive_rmse":0.0109867,"fixed_samples":393216,"adaptive_samples":439321,"reference_spp":1024}

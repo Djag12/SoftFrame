@@ -1,0 +1,1 @@
+{"backend":"Embree 4 (external BVH)","threads":8,"independent_reference_seed":true,"triangles":50000,"bvh_reference_checks":300,"intersection_rays":1000000,"rays_per_second":8.18738e+06,"hits":444326,"fixed_seconds":0.0619174,"adaptive_seconds":0.0777767,"fixed_rmse":0.016636,"adaptive_rmse":0.0190761,"fixed_samples":393216,"adaptive_samples":440365,"reference_spp":1024}

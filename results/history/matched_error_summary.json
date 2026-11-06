@@ -1,0 +1,12 @@
+{
+  "criterion": "adaptive RMSE <= fixed-64-spp RMSE against independent 1024-spp reference",
+  "best_qualifying_candidate": {
+    "budget": 128,
+    "samples_including_pilot": 833296,
+    "seconds": 0.123365,
+    "rmse": 0.0154823
+  },
+  "fixed_seconds": 0.0619174,
+  "measured_time_reduction_fraction": -0.9924124720999268,
+  "target_35_percent_met": false
+}
