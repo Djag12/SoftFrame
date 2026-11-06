@@ -1,7 +1,7 @@
 # SoftFrame
 
-**Original project date (from memory):** June 6, 2026  
-**Published on GitHub:** November 6, 2026
+**First published on my previous account (from memory):** June 6, 2026  
+**Republished under Djag12:** November 6, 2026
 
 SoftFrame renders triangles on the CPU. A bounding volume hierarchy lets a ray skip whole groups of triangles. The renderer uses the same scene to answer two questions: how quickly can it find the closest hit, and where should it spend extra samples to reduce visible noise?
 
